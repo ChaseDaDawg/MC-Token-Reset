@@ -1,6 +1,5 @@
 # MC Token Reset
 A 1.8.9 Minecraft Forge Mod That allows you to reset your mc token
-# Simple Dupe Checker.
 
 ### MC Token Reset Download:
 
