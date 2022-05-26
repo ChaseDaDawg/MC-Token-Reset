@@ -5,7 +5,9 @@ A 1.8.9 Minecraft Forge Mod That allows you to reset your mc token
 ### MC Token Reset Download:
 
 This mod requires Forge 1.8.9 which can be downloaded at https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html
+
 Here is also a quick tutorial on how to install forge 1.8.9 https://www.youtube.com/watch?v=Rc6Kv1xkqpo
+
 This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/974706549765341224/978004607420739634/SDC.jar)
 
 ### Why is this useful?
