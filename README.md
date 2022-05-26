@@ -7,7 +7,7 @@ This mod requires Forge 1.8.9 which can be downloaded at https://files.minecraft
 
 Here is also a quick tutorial on how to install forge 1.8.9 https://www.youtube.com/watch?v=Rc6Kv1xkqpo
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/974706549765341224/978004607420739634/SDC.jar)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/975147762142298122/979221265887924264/MCTokenReset-1.8.9.jar)
 
 ### Why is this useful?
 Many Players who play minecraft get their token stolen and this will prevent people from logging into your account
